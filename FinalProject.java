@@ -1,3 +1,7 @@
-public class FinalPRoject()
+public class FinalProject()
 {
+	private FinalProject()
+	{
+			
+	}
 }
